@@ -11,7 +11,7 @@ This tileset was intended to look like an intermediary between the 0.6 and 0.7 v
     - Inkscape site - www.inkscape.org
     - Use the layers provided to efficiently colorize the tiles (CTRL + SHIFT + L)
     - If you have edited and exported these tilesets, you must apply several scripts to the PNG for it to appear properly in Teeworlds. 
-    - These scripts can be found here: ddnet.tw/downloads/ in the "Other Downloads" section.
+    - These scripts can be found here: www.ddnet.tw/downloads/ in the "Other Downloads" section.
     - Apply dilate, tileset_borderfix, and tileset_borderadd in that order to your exported images.
 
 Additional links:
