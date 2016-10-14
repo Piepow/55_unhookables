@@ -7,12 +7,12 @@ This tileset was intended to look like an intermediary of the 0.6 and 0.7 versio
 
 **Using the Tilesets Provided**
   - Navigate to the data/mapres/ folder inside your Teeworlds client directory
-  - Download the images from the PNG folder from this repo into the mapres folder
+  - Download the images from the [PNG](/PNG) folder from this repo into the mapres folder
   - Navigate to the data/editor folder inside your Teeworlds client directory
-  - Download the the \*.rules files from the AUTOMAPPER folder from this repo into the editor folder
+  - Download the the \*.rules files from the [AUTOMAPPER](/AUTOMAPPER/) folder from this repo into the editor folder
   
 **Editing the Tilesets Provided**
-  - Editing of these tilesets can be done through the SVG files provided
+  - Editing of these tilesets can be done through the [SVG](/SVG/) files provided
   - Editing of these SVG files can be done using [Inkscape](www.inkscape.org)
   - Once the SVG files are opened in Inkscape, you can utilize the layers provided by going to "Layers -> Layers..." in the menus or simply pressing CTRL + SHIFT + L
   - Once your have finished editing the tiles in the SVG file, you can export it as a PNG by going to "File -> Export PNG Image..." or simply pressing CTRL + SHIFT + E
