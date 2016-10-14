@@ -1,6 +1,8 @@
 # 55_unhookables
 Redrawn and revised unhookable tileset for Teeworlds.
 
+<img src=http://i.imgur.com/xrHSDOe.png>
+
 This tileset was intended to look like an intermediary between the 0.6 and 0.7 versions of generic_unhookable, though it also includes several additional tiles (4x4, 1x2, 1.5x1) and colors (grey and light). Sources of the images as Inkscape SVGs are provided, along with automappers for each.
 
   - PNG tilesets should be placed in your client data/mapres/ directory.
