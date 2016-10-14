@@ -22,5 +22,5 @@ This tileset was intended to look like an intermediary of the 0.6 and 0.7 versio
   - If you need an automapper for that tileset, remember to rename the \*.rules file in the data/editor folder so that it has the same name as the PNG image
 
 **Additional links:**
-  - Teeworlds - www.teeworlds.com
-  - DDNet - www.ddnet.tw
+  - Teeworlds - https://www.teeworlds.com/
+  - DDNet - https://ddnet.tw/
