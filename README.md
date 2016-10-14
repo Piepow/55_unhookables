@@ -19,7 +19,7 @@ This tileset was intended to look like an intermediary of the 0.6 and 0.7 versio
   - Before you can use the exported PNG image as a tileset in Teeworlds, you must first apply some scripts to the file. These scripts can be downloaded here: https://ddnet.tw/downloads/ under the "Other Downloads" section as "Mapping Graphics Tools"
   - Once the scripts are downloaded, apply "dilate," "tileset_borderfix," and "tileset_borderadd" to the exported PNG image in that order
   - Place the image in the data/mapres/ folder in your Teeworlds client directory
-  - If you need an automapper for that tileset, remember to rename the \*.rules file in the data/editor folder so that it has the same name as the PNG image
+  - If you need an automapper for that tileset, remember to rename the automapper rules file in the data/editor folder so that it has the same name as the PNG image
 
 **Additional links:**
   - Teeworlds - https://www.teeworlds.com/
